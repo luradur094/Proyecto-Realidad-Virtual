@@ -33,6 +33,6 @@ Lo primero que haremos para empezar con el entorno virtual sera crear las esfera
 
 8. El primer script es para el movimiento de la camara para moverte dentro de ella y ver la imagen y el segunco script es para cambiar entre las esferas que hemos creado 
 
-![MoverCamara]()
+![MoverCamara](https://github.com/luradur094/Proyecto-Realidad-Virtual/blob/main/modulo4.md)
 
-![CambiarCamara]()
+![CambiarCamara](https://github.com/luradur094/Proyecto-Realidad-Virtual/blob/main/modulo5.md)
